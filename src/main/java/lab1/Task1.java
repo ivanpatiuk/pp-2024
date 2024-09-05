@@ -3,7 +3,7 @@ package lab1;
 public class Task1 {
 
     public static String convertToBinary(int num) {
-        return "World 23";
+        return "World 23sdsd";
     }
 
     public static void main(String[] args) {
