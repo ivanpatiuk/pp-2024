@@ -1,6 +1,6 @@
 package lab1;
 
-public class Main {
+public class Task1 {
 
     public static String convertToBinary(int num) {
         return "World 23";
